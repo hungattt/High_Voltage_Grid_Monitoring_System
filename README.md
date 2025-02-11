@@ -27,7 +27,7 @@ Hệ thống bao gồm 7 tab chính:
 ![](images/dot-bay7.png)
 ![](images/nang-cao2.png)
 #### 1.3 Phát hiện các bất thường ảnh nhiệt
-![](images/7_Tao_dot_bay_kiem_tra_import_video_nhiet.png)
+![](images/7_Tao_dot_bay_kiem_tra_import_video_nhiet1.png)
 ![](images/8_Trong_qua_trinh_kiem_tra_import_video_nhiet.png)
 ### 2. Tab Quản Lý Đợt Bay
 - **Chức năng:** Quản lý kết quả các đợt bay sau khi cho video, ảnh chụp từ drone về đường dây truyền tải điện cần giám sát vào module AI để phân tích các bất thường.
