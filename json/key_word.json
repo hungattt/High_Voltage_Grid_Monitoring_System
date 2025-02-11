@@ -1,0 +1,27 @@
+{
+    "cachdientt:vobat": { "label": "cachdien", "title": "cách điện bị vỡ, nứt, mất bát", "name_e":"insulate" },
+    "daydien:tuasoi": { "label": "daydien", "title": "dây điện bị tưa sợi", "name_e":"electric_wire" },
+    "hanhlang": { "label": "hanhlang", "title": "vi phạm hành lang", "name_e":"corridor" },
+    "binhthuong": { "label": "binhthuong", "title": "bình thường", "name_e":"normal" },
+    "divat": { "label": "cot", "title": "mắc dị vật", "name_e":"steel_col" },
+    "divat:cotthephinh": { "label": "cot", "title": "mắc dị vật cột điện", "name_e":"steel_col" },
+    "divat:cotdonthan": { "label": "cot", "title": "mắc dị vật cột điện", "name_e":"steel_col" },
+    "divat:daydien": { "label": "daydien", "title": "mắc dị vật dây điện", "name_e":"electric_wire" },
+    "divat:cachdientt": { "label": "cot", "title": "mắc dị vật chuỗi cách điện", "name_e":"insulate" },
+    "cachdienslc:rachtan": { "label": "cachdien", "title": "cách điện silicon rách tán", "name_e":"insulate" },
+    "tacr:troi": { "label": "tacr", "title": "tạ chống rung bị sự cố (tuột, vỡ,…)", "name_e":"anti_vibration" },
+    "moinoi:phatnhiet": { "label": "moinoi", "title": "mối nối phát nhiệt", "name_e":"heat_coupling" },
+    "defect rusty": { "label": "hanri", "title": "cột điện han rỉ", "name_e":"defect_rusty" },
+    "defect wire": { "label": "phongxem", "title": "phóng xém dây điện", "name_e":"defect_wire" },
+    "defect connector": { "label": "tuotham", "title": "Tuột hãm dây trên chuỗi cách điện", "name_e":"defect_connector" },
+    "defect corridor": { "label": "hanhlang", "title": "vi phạm hành lang", "name_e":"defect_corridor" },
+    "defect discharge": { "label": "phongxem", "title": "phóng xém chuỗi cách điện", "name_e":"defect_discharge" },
+    "defect foundation": { "label": "nutgay", "title": "nứt gãy móng cột", "name_e":"defect_foundation" },
+    "defect landslide": { "label": "satlo", "title": "sạt lở móng cột", "name_e":"defect_landslide" },
+    "normal": { "label": "binhthuong", "title": "bình thường", "name_e":"normal" },
+    "vongday": { "label": "vongday", "title": "dây điện bĩ võng", "name_e":"sagging_wire" }
+
+}
+
+
+

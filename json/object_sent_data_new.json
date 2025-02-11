@@ -1,0 +1,101 @@
+{
+    "information": {
+        "schedule_name": {
+            "pos": "1",
+            "label": "schedule_name",
+            "title": "Phiếu số"
+        },
+        "implementation_date": {
+            "pos": "2",
+            "label": "implementation_date",
+            "title": "Ngày kiểm tra"
+        },
+        "powerline_name": {
+            "pos": "3",
+            "label": "powerline_name",
+            "title": "Tên tuyến kiểm tra"
+        },
+        "test_method": {
+            "pos": "4",
+            "label": "test_method",
+            "title": "Phương thức kiểm tra"
+        },
+        "location_start": {
+            "pos": "5",
+            "label": "location_start",
+            "title": "Điểm bắt đầu kiểm tra"
+        },
+        "location_end": {
+            "pos": "6",
+            "label": "location_end",
+            "title": "Điểm kết thúc kiểm tra"
+        }
+    },
+    "result": {
+        "corridor": {
+            "pos": "1",
+            "label": "hanhlang",
+            "title": "Hành lang tuyến"
+        },
+        "steel_col": {
+            "pos": "2",
+            "label": "cot",
+            "title": "Cột"
+        },
+        "col_foundation": {
+            "pos": "3",
+            "label": "mongcot",
+            "title": "Móng cột"
+        },
+        "structure": {
+            "pos": "4",
+            "label": "ketcau",
+            "title": "Các kết cấu xà và giá đỡ"
+        },
+        "insulate": {
+            "pos": "5",
+            "label": "cachdien",
+            "title": "Sứ cách điện"
+        },
+        "electric_wire": {
+            "pos": "6",
+            "label": "daydien",
+            "title": "Dây dẫn"
+        },
+        "earthing": {
+            "pos": "7",
+            "label": "tiepdia",
+            "title": "Các kết cấu tiếp địa, tình trạng tiếp địa"
+        },
+        "holding_rope": {
+            "pos": "8",
+            "label": "neo",
+            "title": "Dây néo, móng néo"
+        },
+        "anti_lightning": {
+            "pos": "9",
+            "label": "chongset",
+            "title": "Các thiết bị chống sét"
+        },
+        "anti_vibration": {
+            "pos": "10",
+            "label": "tacr",
+            "title": "Tạ bù - Tạ chống rung"
+        },
+        "heat_coupling": {
+            "pos": "11",
+            "label": "moinoi",
+            "title": "Phát nhiệt mối nối"
+        },
+        "processed": {
+            "pos": "12",
+            "label": "tontai",
+            "title": "Các tồn tại đã xử lý"
+        },
+        "suggest": {
+            "pos": "13",
+            "label": "kiennghi",
+            "title": "Kiến nghị"
+        }
+    }
+}
